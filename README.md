@@ -1,7 +1,7 @@
 # 📸 Event-boosted Deformable 3D Gaussians for Dynamic Scene Reconstruction. **ICCV 2025**
 
 <div align="center">
-  <video src="assets/Video.mp4" controls style="max-width: 80%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"></video>
+  ▶️ <a href="assets/Video.mp4">Click here to watch the demo video</a>
 </div>
 
 <br>

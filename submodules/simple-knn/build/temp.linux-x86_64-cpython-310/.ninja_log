@@ -1,0 +1,4 @@
+# ninja log v5
+1	14702	1718611022847912779	/workspace/Code/Deformable_3DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	cbee0f16b9741925
+0	22790	1718611030927857072	/workspace/Code/Deformable_3DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	5d72c93845f3a7cf
+1	70023	1718611078159545911	/workspace/Code/Deformable_3DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	60cd76b1e6a7ff25
